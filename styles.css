@@ -1,0 +1,19 @@
+/* style.css */
+.stopwatch {
+  text-align: center;
+}
+
+.time {
+  font-size: 36px;
+  margin: 20px;
+}
+
+button {
+  font-size: 18px;
+  margin: 10px;
+  padding: 10px 20px;
+}
+
+.laps {
+  list-style: none;
+}
